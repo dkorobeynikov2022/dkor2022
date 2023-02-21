@@ -15,7 +15,8 @@ Main functionality:
 5. Protection of participants from fraud - transfer of funds of the auction winner and P2P buyer to the wallet of the guarantor bot and automatic sending only after the transfer of NFT
 6. Maintaining a blacklist of unscrupulous participants (Telegram account, TON wallet, NFT address) and a ban on further use of the bot by such participants
 7. Verification of Monkeys - checking if the user has a special NFT that gives access to the closed Monkeys community group (ApeRedList) with bonuses for participants (discounts, presales, airdrops, etc.)
-\n
+
+
 Additional functionality:
 1. Bilingual interface (automatic language selection according to user settings)
 2. Verification of wallets of auction organizers and participants
