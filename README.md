@@ -1,10 +1,11 @@
 # dkor2022
 Repository for Python projects of Dmitry Korobeynikov
-\ndonate_wallet = 'EQBnk2PqeZZjIya2zvPlH2pnSQYYPjNReMntiOyWYt9au_fc'
-\n
+
+donate_wallet = 'EQBnk2PqeZZjIya2zvPlH2pnSQYYPjNReMntiOyWYt9au_fc'
+
 <b><a href='t.me/mankeys_guarantor_bot'>@mankeys_guarantor_bot</a> - Telegram bot for P2P deals and auctions for NFT on TON blockchain. 
 It helps to decrease risks for users when they want to sell NFT without commissions via P2P deals. Also it helps to provide auctions (also without commissions).</b>
-\n
+
 <b>Functionality of mankeys_guarantor_bot</b>
 Main functionality:
 1. Creation of new NFT auctions of the main TON NFT collections
@@ -22,7 +23,7 @@ Additional functionality:
 4. Checking the sufficiency of the balance of participants to participate in auctions and increase rates
 5. Extended statistics on the attributes of the lot (number in the collection,%, rank, etc.)
 
-\n
+
 <b>Installation of mankeys_guarantor_bot</b>
 1. Install PostgreSQL 13
 2. Create database (botdb)
@@ -45,7 +46,7 @@ Additional functionality:
 
 8. Set on scheduler files autoclose_auction_monkeys.sh, blacklist_users_monkeys.sh, send_money_by_queue.sh
 
-8. Run start_bot.py with bot_id from nft_auction_bot.d_bots table
+9. Run start_bot.py with bot_id from nft_auction_bot.d_bots table
 
 
 
