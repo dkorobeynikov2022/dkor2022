@@ -2,7 +2,7 @@
 Repository for Python projects of Dmitry Korobeynikov
 donate_wallet = 'EQBnk2PqeZZjIya2zvPlH2pnSQYYPjNReMntiOyWYt9au_fc'
 
-<b><a href 't.me/mankeys_guarantor_bot'>@mankeys_guarantor_bot</a> - Telegram bot for P2P deals and auctions for NFT on TON blockchain. 
+<b><a href='t.me/mankeys_guarantor_bot'>@mankeys_guarantor_bot</a> - Telegram bot for P2P deals and auctions for NFT on TON blockchain. 
 It helps to decrease risks for users when they want to sell NFT without commissions via P2P deals. Also it helps to provide auctions (also without commissions).</b>
 
 <b>Functionality of mankeys_guarantor_bot</b>
