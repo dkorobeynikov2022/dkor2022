@@ -7,6 +7,7 @@ donate_wallet = 'EQBnk2PqeZZjIya2zvPlH2pnSQYYPjNReMntiOyWYt9au_fc'
 It helps to decrease risks for users when they want to sell NFT without commissions via P2P deals. Also it helps to provide auctions (also without commissions).</b>
 
 <b>Functionality of mankeys_guarantor_bot</b>
+
 Main functionality:
 1. Creation of new NFT auctions of the main TON NFT collections
 2. Automatic notification of new/closed auctions (with detailed information) in a special channel(s)
