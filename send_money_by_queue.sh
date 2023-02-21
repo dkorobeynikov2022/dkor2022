@@ -1,0 +1,1 @@
+python3 /python/nft_auction_bot/send_money_by_queue.py

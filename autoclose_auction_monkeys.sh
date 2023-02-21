@@ -1,0 +1,1 @@
+python3 /python/nft_auction_bot/autoclose_auction_monkeys.py
